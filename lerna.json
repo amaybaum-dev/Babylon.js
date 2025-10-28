@@ -1,5 +1,7 @@
 {
     "packages": ["packages/**/*"],
     "version": "independent",
-    "allowBranch": ["master", "preview"]
+    "allowBranch": ["master", "preview"],
+    "useWorkspaces": true
 }
+
